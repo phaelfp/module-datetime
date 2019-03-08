@@ -31,7 +31,7 @@ If using OpCache, please clear cache.
 ## Installation (Manually)
 1. Download the code. [Version 1.0.0](https://github.com/phaelfp/module-datetime/archive/1.0.0.tar.gz)
 2. Extract the downloaded tar.gz file. Example: `tar -xzf module-datetime-1.0.0.tar.gz`.
-3. Copy the code into `./app/code/Magenex/DateTime/`.
+3. Copy the code into `./app/code/Magonex/DateTime/`.
 4. Enable the module and clear static content.
 
 ```
